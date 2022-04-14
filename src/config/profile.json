@@ -1,0 +1,21 @@
+{
+    "profle" : {
+        "name" : "kopi tani pati",
+        "contact" : "kopi tani pati",
+        "facebook" : "kopi tani pati",
+        "instagram" : "kopi tani pati",
+        "email" : "kopi tani pati"
+    },
+    "product" : [
+        {
+            "name" : "Original Coffee",
+            "neto" : "",
+            "desc" : "original coffee"
+        },
+        {
+            "name" : "Kopi Lanang",
+            "neto" : "",
+            "desc" : "original coffee"
+        }      
+    ]
+}
