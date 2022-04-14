@@ -20,7 +20,7 @@ import Footer from "../components/Footer.vue";
                             </h2>
                         </div>
                     </div>
-                    <img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="assets/image/img2.jpg" alt="..." />
+                    <img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="/assets/image/img2.jpg" alt="..." />
                     <div class="product-item-description d-flex me-auto">
 
                         <div class="bg-faded p-5 rounded">
@@ -41,7 +41,7 @@ import Footer from "../components/Footer.vue";
                             </h2>
                         </div>
                     </div>
-                    <img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="assets/image/img4.jpg" alt="..." />
+                    <img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="/assets/image/img4.jpg" alt="..." />
                     <div class="product-item-description d-flex ms-auto">
                         <div class="bg-faded p-5 rounded"><p class="mb-0">Original coffee adalah varian kopi yang dibuat dari 100% murni kopi pilihan tanpa campuran bahan lainnya, varian ini banyak diminati oleh kalangan pecinta kopi.</p></div>
                     </div>
@@ -58,7 +58,7 @@ import Footer from "../components/Footer.vue";
                             </h2>
                         </div>
                     </div>
-                    <img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="assets/image/img5.jpg" alt="..." />
+                    <img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="/assets/image/img5.jpg" alt="..." />
                     <div class="product-item-description d-flex me-auto">
                         <div class="bg-faded p-5 rounded">
                             <p class="mb-0">
