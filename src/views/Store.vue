@@ -58,8 +58,8 @@ import Footer from "../components/Footer.vue";
                             <p class="mb-0">
                                 <small><em>Sosial Media</em></small>
                                 <br />
-                                <a class="text-dark mx-2" target="_blank" href="https://www.facebook.com/kopi.t.pati"><i class="fab fa-facebook-square color-facebook" ></i> Facebook</a>
-                                <a class="text-dark mx-2" target="_blank" href="https://www.instagram.com/kopi.t.pati/"><i class="fab fa-instagram color-instagram" ></i> Instagram</a>
+                                <a class="text-dark mx-2" target="_blank" href="https://www.facebook.com/kopi.t.pati"><i class="fab fa-facebook-square color-facebook" ></i> Kopi Tani Pati</a>
+                                <a class="text-dark mx-2" target="_blank" href="https://www.instagram.com/kopi.t.pati/"><i class="fab fa-instagram color-instagram" ></i> Kopi Tani Pati</a>
                             </p>
                         </div>
                     </div>
